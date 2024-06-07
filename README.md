@@ -1,1 +1,1 @@
-# This Is My Zomato Landing Page Clone.
+# This is my zomato landing page clone.
